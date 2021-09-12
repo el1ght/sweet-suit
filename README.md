@@ -1,3 +1,3 @@
-### Hello, thanks for visiting
+# Hello, thanks for visiting
 
-# Template sweet-suit designed for my own training
+### Template sweet-suit designed for my own training 🎯
